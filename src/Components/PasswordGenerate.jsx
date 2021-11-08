@@ -1,12 +1,12 @@
 import React,{useState,useEffect} from 'react'
-import Image from '../Img/Logo.png';
+import Image from './Img/logo512.png';
 import styled from 'styled-components';
 import { BttonCheck, DecreaseBtton,IncrementBtton,BttonGenerate } from './Button';
 import PasswordGenerator from './Functions/PasswordGenerator';
 
 const PasswordGenerate = () => {
     const [setting,setSetting]=useState({
-        characterNumber:7,
+        characterNumber:1,
         symbol:true,
         number:true,
         capitalLetter:true
