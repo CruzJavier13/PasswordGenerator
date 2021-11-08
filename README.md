@@ -1,13 +1,13 @@
-#PasswordGenerator
+# PasswordGenerator
 
-*This is a protect built using ReactJs*
+* This is a protect built using ReactJs *
 
- ###This project was built using:
+ ### This project was built using:
  
- *styled-components
+ * styled-components
  
- *useEffect
+ * useEffect
  
- *useState
+ * useState
  
- *Hooks 
+ * Hooks 
